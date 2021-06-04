@@ -1,4 +1,4 @@
-Needed ilbrary: Numpy
+Needed library: Numpy
 
 command to run:
 python req5.py x y
