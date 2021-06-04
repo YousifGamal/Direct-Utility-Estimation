@@ -8,6 +8,6 @@ e-xample to run 3 * 4 world with 1000 iterations:  python req5.py a 1000
 
 Output: two text files of the result
 -"Tabular Form.txt" for the tabular form method
--"Function Estimation.txt" for the function approximation method
+-"Function Approximation.txt" for the function approximation method
 
 World policies are fixed in the code

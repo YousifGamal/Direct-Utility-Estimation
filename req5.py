@@ -4,7 +4,7 @@ import numpy as np
 
 def saveResults(r1,r2):
     np.savetxt("Tabular Form.txt", r1,fmt='%1.4f')
-    np.savetxt("Function Estimation.txt", r1,fmt='%1.4f')
+    np.savetxt("Function Approximation.txt", r1,fmt='%1.4f')
 
 
 
